@@ -26,3 +26,5 @@
    - Another technique I employ in my recommender system is dimensionality reduction with matrix factorization. Specifically, I utilize Truncated Singular Value Decomposition (SVD) to reduce the dimensionality of the user-item utility matrix. This allows me to capture latent features and improve the efficiency of the recommendation process.
 
 In summary, my recommender system leverages various techniques, including collaborative filtering, content-based filtering, and matrix factorization, to provide personalized movie recommendations to users while addressing challenges such as the cold start problem. Through exploratory data analysis and preprocessing, I ensure the quality and reliability of my recommendations, ultimately enhancing the user experience.
+
+Check the csv file here https://drive.google.com/file/d/1IM-48mVaJCLPf-ZSRqWlIy6zz0HYj54h/view?usp=sharing
